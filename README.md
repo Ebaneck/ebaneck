@@ -64,7 +64,7 @@
 - [Load testing a log management system with random logs.](https://medium.com/@ebaneckatuh/load-testing-a-log-management-system-with-random-logs-8595a393cdca)
 - [Deploying a scalable Jenkins setup on Kubernetes(K8s) using Minikube](https://medium.com/@ebaneckatuh/deploying-a-scalable-jenkins-setup-on-kubernetes-k8s-using-minikube-d58e26df6409)
 - [How i wrote a CodeIgniter cron job](https://medium.com/@ebaneckatuh/how-i-wrote-a-codeigniter-cron-job-in-2-minutes-a7fa59b93592)
-- [Translating Codeigniter projects in 5seconds](https://medium.com/@ebaneckatuh/deploying-a-scalable-jenkins-setup-on-kubernetes-k8s-using-minikube-d58e26df6409)
+- [Translating Codeigniter projects in 5seconds](https://medium.com/@ebaneckatuh/translating-codeigniter-projects-in-5seconds-b107f2ce9b97)
 
 
 
