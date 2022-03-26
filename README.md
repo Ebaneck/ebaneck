@@ -14,7 +14,7 @@
   - I love good music
   - I am learning to play the piano
   - I can play any sports given that I am shown the rules once|twice
-  - I like to race (Kart racing)
+  - I like to race (Kart racing🏎️)
 
 
 ### Recent works
