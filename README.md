@@ -57,6 +57,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Monitoring AWS EC2 PPS allowance limits with Prometheus](https://medium.com/@ebaneckatuh/how-to-monitor-aws-ec2-pps-allowance-limits-62e1bed1eb5e)
 - [Threat hunting lab setup + unique log management system](https://medium.com/@ebaneckatuh/threat-hunting-lab-setup-unique-log-management-system-b36a5d171412)
 - [Migrating from puppet to ansible: Some facts](https://medium.com/@ebaneckatuh/migrating-from-puppet-to-ansible-some-facts-5358de3c4830)
 - [Centralize Logs with Rsyslog and Logstash on debian linux securely using TCP.](https://medium.com/@ebaneckatuh/centralize-logs-with-rsyslog-and-logstash-on-debian-linux-securely-using-tcp-d62c910a07a)
