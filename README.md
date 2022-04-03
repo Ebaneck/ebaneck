@@ -18,6 +18,7 @@
 
 
 ### Recent works
+  - Kafka MSK migration to Confluent
   - Migration from Dockershim to Containerd for EKS K8s 1.21.xx
   - Managing K8s cluster upgrades using [Hellofresh/eks-rolling-upgrade](https://github.com/hellofresh/eks-rolling-update)
   - Automating EKS addons (Kube-proxy, Aws vpc-cni) deployment with Terraform
@@ -26,6 +27,10 @@
   - Automating cloudflare worker deployment with wrangler and gitlab ci
   - Writing internal terraform modules and documentation
   - Building Jenkins pipelines with Groovy and DSL for internal microservice deployments
+  - WAF acl implementation for Cloudfront and AWS loadbalancers with terraform
+  - Gitlab vault integration with roles
+  - Akamai fast purge ansible role
+  - Confluent topic, acl and service account management with terraform
   - Writing react native component libraries for fun
 
 ...  I am currently preparing blog posts for the above topics.
