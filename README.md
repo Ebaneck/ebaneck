@@ -17,7 +17,7 @@
   - I like to race (Kart racing🏎️)
 
 
-### Recent works
+### Recent projects
   - Kafka MSK migration to Confluent
   - Migration from Dockershim to Containerd for EKS K8s 1.21.xx
   - Managing K8s cluster upgrades using [Hellofresh/eks-rolling-upgrade](https://github.com/hellofresh/eks-rolling-update)
