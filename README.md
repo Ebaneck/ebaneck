@@ -18,6 +18,7 @@
 
 
 ### Recent projects
+  - Serverless Slack bot running on AWS Lambdas with [chalice](https://aws.github.io/chalice/), [slackapi/bolt-python](https://slack.dev/bolt-python/concepts)
   - Kafka MSK migration to Confluent
   - Migration from Dockershim to Containerd for EKS K8s 1.21.xx
   - Managing K8s cluster upgrades using [Hellofresh/eks-rolling-upgrade](https://github.com/hellofresh/eks-rolling-update)
