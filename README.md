@@ -1,7 +1,10 @@
 ### I'm Claude - aka [Leroi][website] 👋 
 
-[![Website](https://img.shields.io/website?label=ebaneck.com&style=for-the-badge&url=https%3A%2F%2Febaneck.github.io/me/)](https://ebaneck.github.io/me/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ebaneck?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Febaneck&screen_name=ebaneck)
+[![Twitter](https://img.shields.io/twitter/follow/ebaneck?label=Twitter&style=social)](https://twitter.com/ebaneck)
+[![Linkedin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/claude-ebaneck-2481b250/)
+[![Medium](https://img.shields.io/badge/medium--_.svg?style=social&logo=medium)](https://medium.com/@ebaneckatuh)
+[![Email](https://img.shields.io/badge/email--_.svg?logo=Gmail&style=social)](mailto:claudeforlife@gmail.com)
+-----------
 
 ### I'm an **Infrastructure Engineer** at Vestiaire Collective
 
