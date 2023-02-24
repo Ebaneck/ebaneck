@@ -6,13 +6,12 @@
 [![Email](https://img.shields.io/badge/email--_.svg?logo=Gmail&style=social)](mailto:claudeforlife@gmail.com)
 -----------
 
-### I'm an **Infrastructure Engineer** at Vestiaire Collective
+### I'm a **Senior Infrastructure Engineer** at Vestiaire Collective
 
 - ☸️ Together with my team, I manage everything Infra & AWS
 - 💯 I love to automate everything from using shell scripts to automation tools
 - 💚 I am a Man city fan and will remain forever a blue
-- 🕹 I am also a badass CallOfDuty & Splinter cell player.
-- 🥅 2022 Goals: Build more awesome projects
+- 🥅 2023 Goals: Build more awesome projects
 - ⚡ Fun facts: 
   - I love good music
   - I am learning to play the piano
