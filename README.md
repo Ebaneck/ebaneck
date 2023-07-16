@@ -7,7 +7,7 @@
 -----------
 
 - 💙 I am a Man city fan
-- 🥅 2023 Goals: Build more awesome projects (mynkwa 🛫)
+- 🥅 2023 Goals: Build more awesome projects
 - ⚡ Fun facts: 
   - I am learning to play the piano
   - I can play any sports given that I am shown the rules once|twice
